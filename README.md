@@ -8,5 +8,3 @@ made new changes
 # Added a headrer
 
 ### adding new commits
-## long commit
-## long long commit
