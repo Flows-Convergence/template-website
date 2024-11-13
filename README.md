@@ -6,8 +6,3 @@ night changess
 made new changes
 
 # Added a header
-
-### adding new commits
-New changes that will be merged to main
-Changes as suggested by Navneel, retrigger/
-Adding changes
