@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_Flows_Convergence_template_website_1704185792051-push-trigger-input-set
+  identifier: Build_Flows_Convergence_template_website_1704185792051pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_Flows_Convergence_template_website_1704185792051
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
